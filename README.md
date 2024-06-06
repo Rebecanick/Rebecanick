@@ -10,4 +10,4 @@ Meu Nome é Rebeca Nicoly
 
  00001072572448sp@al.educacao.sp.gov.br
 
-  ![](https://tenor.com/pt-BR/view/crb-galo-lbs-gif)
+  ![https://tenor.com/pt-BR/view/crb-galo-lbs-gif]()
